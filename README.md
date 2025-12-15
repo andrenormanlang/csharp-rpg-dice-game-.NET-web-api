@@ -5,9 +5,9 @@
 **C# RPG API** is a text-based role-playing game (RPG) where players engage with heroes 🦸‍♂️, enemies 🐉, battles ⚔️, and much more! This project demonstrates a fun blend of *C# ASP.NET Core* on the backend with *MongoDB* 🗄️ to store your game data. You can manage your inventory 🎒, fight battles, collect items, and level up characters as a true adventurer! 🚀
 
 ### 🌍 Live Deployment:
-The API is deployed on **Azure** ☁️ for production-ready cloud hosting, ensuring scalability and security for your RPG adventures!
+The API is deployed on **Render.com** ☁️ for production-ready cloud hosting, ensuring scalability and security for your RPG adventures!
 
-[Live API Endpoint](https://csharprpg.azurewebsites.net/api/)
+[Live API Endpoint](https://csharp-rpg-api.onrender.com/api)
 
 ---
 
@@ -68,10 +68,6 @@ The API is deployed on **Azure** ☁️ for production-ready cloud hosting, ensu
 ### 🤝 Contributing:
 Feel free to fork this project, create issues, and submit pull requests! Together we can make this RPG world more epic! 🌍⚔️
   
-### 👾 Author:
-- André Norman Lang - Developer and RPG Enthusiast ⚔️
-- [Portfolio](https://anl-portfolio.vercel.app/)
-
 ### Happy coding and questing, adventurer! 🏹💻
 
 
